@@ -74,8 +74,10 @@ FOR i IN items
 
 With the "vertice, edge and path" information returned in the query, so the UI can visualize it.
 
+```
 FOR vertice,edge,path IN 1 INBOUND
     "vertices/1" edges // vertices is the vertex collection, and edges the edge collection
+```
 
 # graph question
 
