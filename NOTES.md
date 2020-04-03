@@ -6,9 +6,14 @@ arango is a three typed db supporting multiple types:
 2. document db
 3. key / value store
 
-# joins vs edges
+# joins with verticies vs edges
+
+## verticies
 
 if you know in advance you will only need a certain depth of joining collections (verticies) are better
+
+## edges
+
 if you know that you will want to traverse an undetermined number of times, or that the "join" actually contains the bulk of the information to query then you are btter of using an edge
 
 # query examples
