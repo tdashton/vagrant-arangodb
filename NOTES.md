@@ -14,7 +14,7 @@ if you know in advance you will only need a certain depth of joining collections
 
 ## edges
 
-if you know that you will want to traverse an undetermined number of times, or that the "join" actually contains the bulk of the information to query then you are btter of using an edge
+if you know that you will want to traverse an undetermined number of times, or that the "join" actually contains the bulk of the information to query then you are better off using an edge
 
 # query examples
 
